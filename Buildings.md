@@ -71,3 +71,4 @@ todo!
 Black holes can give you insane quantities of energy, but it also helps you manipulate time !
 You can also make turrets using them, storages, ...
 You can make *Wormholes* which are a **fast** item transportation, they divide travel time by 10^10, but costs a lot of strange matter and energy to keep alive.
+
